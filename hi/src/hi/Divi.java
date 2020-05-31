@@ -8,7 +8,7 @@ public class Divi {
 		while(i<=3000){
 		if(i%7==0 && i%5!=0){
 			
-			System.out.println(i);
+			System.out.println(i+1);
 		}
 		i++;
 		}
